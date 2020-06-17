@@ -1,5 +1,7 @@
 package com.xy.lesson.mbg.model;
 
+import org.springframework.context.annotation.Bean;
+
 import java.io.Serializable;
 import java.util.Date;
 
